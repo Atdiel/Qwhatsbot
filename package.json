@@ -1,0 +1,19 @@
+{
+  "name": "qwhatsbot",
+  "version": "1.0.0",
+  "description": "personal whatsapp-bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramon AP Quintana",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "aes-encrypt-stream": "^0.2.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.16.7"
+  }
+}
